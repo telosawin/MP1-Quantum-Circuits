@@ -1,4 +1,4 @@
-#**MP1 — Quantum Circuits**
+**MP1 — Quantum Circuits**
 
 Solutions to Machine Problem 1, implemented in Jupyter notebooks and supported with theory-based explanations and mathematical representations.
 
